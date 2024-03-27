@@ -23,7 +23,7 @@ var JSONBingo = {"squares": [
         {"square": "\"Don't trust the government\""},
         {"square": "Talks about the phone policy"},
         {"square": "\"Your grade just went down to an E-\""},
-        {"square": "Complains he's an old fat man"},
+        {"square": "Complains he's an old / fat man"},
         {"square": "Mentions elder abuse"},
         {"square": "Yells at anyone"},
         {"square": "Plays music randomly"},
