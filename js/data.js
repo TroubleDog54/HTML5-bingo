@@ -1,4 +1,4 @@
-var headerText = "Stuff Republicans Say";
+var headerText = "Spiro";
 
 var footerText = "<a href='https://github.com/michaellevesque/HTML5-bingo' target='_blank'>Code available on github</a>";
 
